@@ -197,3 +197,5 @@ Remove database volumes if you want a clean database:
 ```powershell
 docker compose down -v
 ```
+## Link video
+https://youtu.be/1cXBKQSfais?si=ir-yqEEVhPM3h98X
